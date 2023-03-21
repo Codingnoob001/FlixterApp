@@ -62,7 +62,7 @@ Describe any challenges encountered while building the app.
     limitations under the License.
     
     
-    # Android Project 4 - *Name of App Here*
+# Android Project 4 - *Name of App Here*
 
 Submitted by: **vic**
 
